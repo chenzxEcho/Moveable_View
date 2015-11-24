@@ -35,27 +35,26 @@ A view can move by finger in activity
         Button btn = (Button) mMoveMenu.findViewById(R.id.button1);
         btn.setOnClickListener(this);
 ```        
-    ---------------------------------------------------------------------------------------------------
 ##参数说明
-        1、设置悬浮窗按钮菜单
+###     1、设置悬浮窗按钮菜单
         该菜单为点击悬浮窗出现的菜单，可以为任何常见布局。
         
-        2、设置悬浮窗移动类型
+###     2、设置悬浮窗移动类型
         该类型为手指抬起后悬浮窗的动作
         悬浮窗留在原位                  MOVETYPE_STOP_IN_SITUATION
         悬浮窗自动回到最近的屏幕边缘    MOVETYPE_STOP_IN_SCREEN_EDGE
         悬浮窗自动回到屏幕左右两侧      MOVETYPE_STOP_IN_LEFT_AND_RIGHT
         悬浮窗自动回到屏幕上下两侧      MOVETYPE_STOP_IN_TOP_AND_BOTTOM
         
-        3、设置悬浮窗菜单激活时背景
+###     3、设置悬浮窗菜单激活时背景
         该背景为点击悬浮窗时的背景，可以是颜色或资源文件
         
-        4、设置悬浮窗靠边停留时的比例
+###     4、设置悬浮窗靠边停留时的比例
         该比例为悬浮窗设置了自动停靠屏幕边缘时，悬浮窗的显示比例
         全部在屏幕中                    SHOW_SCALE_FULL
         一半在屏幕中                    SHOW_SCALE_HALF
         
-        5、设置悬浮窗菜单的位置
+###     5、设置悬浮窗菜单的位置
         该位置为点击悬浮窗后出现菜单的位置
         在顶部出现                      MENULAYOUT_POSITION_TOP
         在中间出现                      MENULAYOUT_POSITION_CENTER
@@ -64,11 +63,12 @@ A view can move by finger in activity
         著作权归作者所有。
 
 ##效果图
+###效果图1
 <img src="https://github.com/ctmwd/Moveable_View/blob/master/screenshot/screenshot.png" width = "400" alt="图片名称" align=center />
-
+###效果图2
 <img src="https://github.com/ctmwd/Moveable_View/blob/master/screenshot/screenshot3.png" width = "400" alt="图片名称" align=center />
-
+###效果图3
 <img src="https://github.com/ctmwd/Moveable_View/blob/master/screenshot/screenshot4.png" width = "400" alt="图片名称" align=center />
-
+###效果图4
 <img src="https://github.com/ctmwd/Moveable_View/blob/master/screenshot/screenshot5.png" width = "400" alt="图片名称" align=center />
         
