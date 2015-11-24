@@ -61,11 +61,11 @@ Activity中的悬浮窗控件
         在底部出现                      MENULAYOUT_POSITION_BOTTOM
         在悬浮窗周围出现                MENULAYOUT_POSITION_AROUND      （待完成）
         
-![image](https://github.com/ctmwd/Moveable_View/blob/master/screenshot/screenshot.png?imageView/2/w/619/q/90)
+![image](https://github.com/ctmwd/Moveable_View/blob/master/screenshot/screenshot.png =100x20)
 
-![image](https://github.com/ctmwd/Moveable_View/blob/master/screenshot/screenshot3.png?imageView/2/w/619/q/90)
+![image](https://github.com/ctmwd/Moveable_View/blob/master/screenshot/screenshot3.png =100x20)
 
-![image](https://github.com/ctmwd/Moveable_View/blob/master/screenshot/screenshot4.png?imageView/2/w/619/q/90)
+![image](https://github.com/ctmwd/Moveable_View/blob/master/screenshot/screenshot4.png =100x20)
 
-![image](https://github.com/ctmwd/Moveable_View/blob/master/screenshot/screenshot5.png?imageView/2/w/619/q/90)
+![image](https://github.com/ctmwd/Moveable_View/blob/master/screenshot/screenshot5.png =100x20)
         
