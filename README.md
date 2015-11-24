@@ -5,6 +5,7 @@ Activity中的悬浮窗控件
 
 使用的时候将MenuButton拷贝至工程，然后通过简单的设置便可加入至布局中。
 示例：
+
         setContentView(R.layout.activity_main);
         // rl为该页面布局的根layout
         RelativeLayout rl = (RelativeLayout) this.findViewById(R.id.layout);
@@ -34,7 +35,7 @@ Activity中的悬浮窗控件
         Button btn = (Button) mMoveMenu.findViewById(R.id.button1);
         btn.setOnClickListener(this);
         
-    ---------------------------------------------------------------------------------------------------------------------
+    ---------------------------------------------------------------------------------------------------
         1、设置悬浮窗按钮菜单
         该菜单为点击悬浮窗出现的菜单，可以为任何常见布局。
         
