@@ -1,11 +1,11 @@
 # Moveable_View
 A view can move by finger in activity
 
-Activity中的悬浮窗控件
+##Activity中的悬浮窗控件
 
 使用的时候将MenuButton拷贝至工程，然后通过简单的设置便可加入至布局中。
 示例：
-
+```java
         setContentView(R.layout.activity_main);
         // rl为该页面布局的根layout
         RelativeLayout rl = (RelativeLayout) this.findViewById(R.id.layout);
@@ -34,8 +34,9 @@ Activity中的悬浮窗控件
         // 悬浮窗菜单中的控件事件监听
         Button btn = (Button) mMoveMenu.findViewById(R.id.button1);
         btn.setOnClickListener(this);
-        
+```        
     ---------------------------------------------------------------------------------------------------
+##参数说明
         1、设置悬浮窗按钮菜单
         该菜单为点击悬浮窗出现的菜单，可以为任何常见布局。
         
@@ -62,6 +63,7 @@ Activity中的悬浮窗控件
         在悬浮窗周围出现                MENULAYOUT_POSITION_AROUND      （待完成）
         著作权归作者所有。
 
+##效果图
 <img src="https://github.com/ctmwd/Moveable_View/blob/master/screenshot/screenshot.png" width = "400" alt="图片名称" align=center />
 
 <img src="https://github.com/ctmwd/Moveable_View/blob/master/screenshot/screenshot3.png" width = "400" alt="图片名称" align=center />
