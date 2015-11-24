@@ -60,7 +60,9 @@ Activity中的悬浮窗控件
         在中间出现                      MENULAYOUT_POSITION_CENTER
         在底部出现                      MENULAYOUT_POSITION_BOTTOM
         在悬浮窗周围出现                MENULAYOUT_POSITION_AROUND      （待完成）
-        
+        著作权归作者所有。
+
+<img src="https://github.com/ctmwd/Moveable_View/blob/master/screenshot/screenshot.png" width = "300" height = "200" alt="图片名称" align=center />
 ![image](https://github.com/ctmwd/Moveable_View/blob/master/screenshot/screenshot.png =100x20)
 
 ![image](https://github.com/ctmwd/Moveable_View/blob/master/screenshot/screenshot3.png =100x20)
