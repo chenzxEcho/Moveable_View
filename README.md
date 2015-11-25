@@ -60,7 +60,7 @@ A view can move by finger in activity
         在中间出现                      MENULAYOUT_POSITION_CENTER
         在底部出现                      MENULAYOUT_POSITION_BOTTOM
         在悬浮窗周围出现                MENULAYOUT_POSITION_AROUND      （待完成）
-        著作权归作者所有。
+
 
 ##效果图
 ###效果图1
